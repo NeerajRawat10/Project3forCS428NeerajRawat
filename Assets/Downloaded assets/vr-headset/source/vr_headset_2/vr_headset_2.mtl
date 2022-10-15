@@ -1,0 +1,55 @@
+
+newmtl 0.CartoonMaterial
+Kd  00 00 00
+Ks  0.36029404 0.36029404 0.36029404
+Ka  00 00 00
+d  01
+Ns  213
+illum 2
+
+
+
+
+newmtl 1.ReflectiveMaterial
+Kd  0.46699996 0.46699996 0.46699996
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl 2.ReflectiveMaterial
+Kd  0.955 01 0.9729999
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
+
+newmtl 3.CartoonMaterial
+Kd  0.4669998 0.4669998 0.4669998
+Ks  0.36029404 0.36029404 0.36029404
+Ka  00 00 00
+d  01
+Ns  213
+illum 2
+
+
+
+
+newmtl 4.ReflectiveMaterial
+Kd  0.4669998 0.4669998 0.4669998
+Ks  0.8 0.8 0.8
+Ka  00 00 00
+d  01
+Ns  925
+illum 2
+
+
+
