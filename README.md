@@ -14,4 +14,6 @@ Now after saving it X out of the project and reopen it again
 
 Now build and run and the proejct should load up on the VR headset and you can take off the cable and select the spot you want to play the project in
 
+If you want to just play it off of unity you can if you simply just open up the project and hit the run or play button at the top center of the screen
+
 You will be able to walk around and pick objects up that I made interactable. And everything listed in the introudction is now in your hand. 
